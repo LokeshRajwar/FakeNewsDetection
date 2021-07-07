@@ -97,5 +97,5 @@ LSTM is a recurrent neural network (RNN) architecture that REMEMBERS values over
 ![image](https://user-images.githubusercontent.com/34310411/53307486-17294380-38bf-11e9-8223-47711aee114f.png)
 
 
-### Project by : Rashid and Trisha  
-### Mentor : Sarah Masud  
+### Project by : Lokesh Singh Rajwar  
+### Mentor : Sushant Chamoli (Faculty)
